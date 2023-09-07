@@ -1,5 +1,5 @@
 # Precise Target-Oriented Attack against Deep Hashing-based Retrieval
-This is the code for our MM 2023 submission "[Precise Target-Oriented Attack against Deep Hashing-based Retrieval](https://openreview.net/forum?id=G_D5JQCQW2h&referrer=%5BTasks%5D(%2Ftasks))"
+Code for our MM 2023 submission "[Precise Target-Oriented Attack against Deep Hashing-based Retrieval](https://openreview.net/forum?id=G_D5JQCQW2h&referrer=%5BTasks%5D(%2Ftasks))"
 
 ## Usage
 #### Dependencies
